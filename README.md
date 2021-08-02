@@ -1,2 +1,2 @@
 # BallAndBeam
- Arduino ile oluşturduğum gerçek zamanlı robotik projesi
+ Arduino ile geliştirdiğim gerçek zamanlı robotik proje

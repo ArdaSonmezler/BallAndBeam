@@ -1,0 +1,2 @@
+Simülink LiquidCrystal
+Legacy HC-SR04 Add-On Library for Arduino Kütüphaneleri kullanıldı
